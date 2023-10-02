@@ -3,5 +3,5 @@ function decimalToBinary(num) {
 }
 
 let num = prompt('please insert decimal number');
-window.decimalToBinary = decimalToBinary; 
-decimalToBinary(num);
+window.decimalToBinary = decimalToBinary(num);  
+//decimalToBinary(num); 
